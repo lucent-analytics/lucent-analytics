@@ -17,7 +17,7 @@ I specialize in tools like Power BI, SQL, Excel, and Python, and I'm constantly 
 📊 PORTFOLIO PROJECTS
 Below are my key data analytics projects. Each project includes a brief summary of the tools, skills used, project goals, and results achieved.
 1. Luckerts Plugin Store Sales Analysis Dashboard
-🔗 View Project Repository
+**🔗 [View Project Repository](https://github.com/lucent-analytics/Luckerts-PlugIn-Store-Powerbi-Project)**
 
 Brief Description: A comprehensive Power BI dashboard analyzing sales performance, revenue trends, product performance, regional distribution, and customer purchasing patterns for Luckerts Plugin Store.
 
@@ -28,7 +28,7 @@ Project Goals: To provide stakeholders with actionable insights into sales perfo
 Results: Developed an interactive dashboard revealing that Lagos accounts for 45.5% of total sales, webcams and mice are the top revenue drivers, and identified the top 5 highest-value customers. The dashboard tracks 200 sales transactions across 20 customers, generating ₦102,501 in revenue, with clear patterns showing peak sales on specific days of the week.
 
 2. SQL Parks and Employee Analysis
-🔗 View Project Repository
+**🔗 [View Project Repository](https://github.com/lucent-analytics/SQL-parks-and-employee-analysis)**
 
 Brief Description: A comprehensive SQL analysis of employee demographics and salary data for a fictional Parks & Recreation Department, exploring workforce patterns, salary distribution, and demographic trends.
 
@@ -43,7 +43,7 @@ Results: Discovered significant gender imbalance in the workforce, identified th
 
 Cirvee Academy - Data Analytics Training Program 
 
-Comprehensive training in Power BI, Ecel, Python, SQL, Data Visualization, and Business Intelligence
+Comprehensive training in Power BI, Excel, Python, SQL, Data Visualization, and Business Intelligence
 Hands-on projects with real-world datasets
 Focus on practical applications and industry best practices
 
@@ -64,8 +64,11 @@ Statistical Analysis
 I'm always open to connecting with fellow data enthusiasts, potential collaborators, and employers!
 
 LinkedIn: linkedin.com/in/amudipeayomide
+
 Email: amudipeayomide@gmail.com
+
 Location: Lagos, Nigeria
+
 GitHub: @lucent-analytics
 
 
