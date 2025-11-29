@@ -14,9 +14,10 @@ I specialize in tools like Power BI, SQL, Excel, and Python, and I'm constantly 
 
 
 
-📊 PORTFOLIO PROJECTS
+## 📊 PORTFOLIO PROJECTS
 
 Below are my key data analytics projects. Each project includes a brief summary of the tools, skills used, project goals, and results achieved.
+
 **1. Luckerts Plugin Store Sales Analysis Dashboard**
 
 **🔗 [View Project Repository](https://github.com/lucent-analytics/Luckerts-PlugIn-Store-Powerbi-Project)**
@@ -42,7 +43,7 @@ Project Goals: To understand workforce composition, analyze salary distribution 
 Results: Discovered significant gender imbalance in the workforce, identified that senior positions consume the largest portion of the salary budget, and revealed that most employees are aged 30-49, indicating a need for more entry-level hiring. The analysis highlighted specific departments with high salary costs and provided actionable recommendations for improving diversity and succession planning.
 
 
-🎓 EDUCATION & TRAINING
+## 🎓 EDUCATION & TRAINING
 
 Cirvee Academy - Data Analytics Training Program 
 
@@ -63,7 +64,7 @@ Statistical Analysis
 
 
 
-📫 CONTACT
+## 📫 CONTACT
 I'm always open to connecting with fellow data enthusiasts, potential collaborators, and employers!
 
 LinkedIn: linkedin.com/in/amudipeayomide
