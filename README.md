@@ -15,8 +15,9 @@ I specialize in tools like Power BI, SQL, Excel, and Python, and I'm constantly 
 
 
 📊 PORTFOLIO PROJECTS
+
 Below are my key data analytics projects. Each project includes a brief summary of the tools, skills used, project goals, and results achieved.
-1. Luckerts Plugin Store Sales Analysis Dashboard
+**1. Luckerts Plugin Store Sales Analysis Dashboard**
 
 **🔗 [View Project Repository](https://github.com/lucent-analytics/Luckerts-PlugIn-Store-Powerbi-Project)**
 
@@ -28,7 +29,7 @@ Project Goals: To provide stakeholders with actionable insights into sales perfo
 
 Results: Developed an interactive dashboard revealing that Lagos accounts for 45.5% of total sales, webcams and mice are the top revenue drivers, and identified the top 5 highest-value customers. The dashboard tracks 200 sales transactions across 20 customers, generating ₦102,501 in revenue, with clear patterns showing peak sales on specific days of the week.
 
-2. SQL Parks and Employee Analysis
+**2. SQL Parks and Employee Analysis**
 
 **🔗 [View Project Repository](https://github.com/lucent-analytics/SQL-parks-and-employee-analysis)**
 
