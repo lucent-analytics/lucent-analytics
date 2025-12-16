@@ -32,7 +32,22 @@ Results: The analysis delivered quantifiable insights by identifying peak revenu
 
 
 
-**2. Luckerts Plugin Store Sales Analysis**
+**2. Tech Layoffs Data Analysis (2020-2023)**
+
+**🔗 [View Project Repository](https://github.com/lucent-analytics/layoffs-data-analysis)**
+
+Brief Description: This project analyzes tech industry layoffs from 2020-2023 using SQL to uncover patterns in workforce reductions across companies, industries, and geographic regions. The analysis involves comprehensive data cleaning to ensure data quality, followed by exploratory data analysis using advanced SQL techniques to generate actionable insights about the tech layoff crisis.
+
+Tools & skills Used: MySQL, MySQL Workbench, Git & GitHub, Data Cleaning & Preparation, Advanced SQL Techniques, Analytical Thinking
+
+Project Goals: Clean and standardize raw layoffs data to ensure accuracy and consistency, Identify trends in layoffs across time, geography, and industry sectors, Analyze relationships between company funding, stage, and layoff severity, Rank and compare companies and industries most affected by workforce reductions, Generate actionable insights for understanding tech industry dynamics
+
+
+Key Results: Successfully cleaned dataset removing duplicates and standardizing 9 data fields across 2,000+ records, Analyzed 513,118 US layoffs representing 70% of global tech workforce reductions, Discovered 21.8% decrease in layoffs from 2022 to 2023, indicating industry stabilization, Identified January 2023 as peak layoff period with 169,428 employees affected, Created 50+ analytical queries covering temporal trends, geographic patterns, funding analysis, and company rankings, Delivered comprehensive insights on industry vulnerability, complete shutdowns, and multi-year layoff patterns
+
+
+
+**3. Luckerts Plugin Store Sales Analysis**
 
 **🔗 [View Project Repository](https://github.com/lucent-analytics/Luckerts-PlugIn-Store-Powerbi-Project)**
 
@@ -44,7 +59,7 @@ Project Goals: To provide stakeholders with actionable insights into sales perfo
 
 Results: Developed an interactive dashboard revealing that Lagos accounts for 45.5% of total sales, webcams and mice are the top revenue drivers, and identified the top 5 highest-value customers. The dashboard tracks 200 sales transactions across 20 customers, generating ₦102,501 in revenue, with clear patterns showing peak sales on specific days of the week.
 
-**3. SQL Parks and Employee Analysis**
+**4. SQL Parks and Employee Analysis**
 
 **🔗 [View Project Repository](https://github.com/lucent-analytics/SQL-parks-and-employee-analysis)**
 
@@ -81,9 +96,9 @@ Statistical Analysis
 ## 📫 CONTACT
 I'm always open to connecting with fellow data enthusiasts, potential collaborators, and employers!
 
-LinkedIn: linkedin.com/in/amudipeayomide
+- **LinkedIn**: [linkedin.com/in/amudipeayomide](https://linkedin.com/in/amudipeayomide)
+- **Email**: amudipeayomide@gmail.com
 
-Email: amudipeayomide@gmail.com
 
 Location: Lagos, Nigeria
 
