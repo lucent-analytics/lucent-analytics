@@ -72,6 +72,18 @@ Project Goals: To understand workforce composition, analyze salary distribution 
 Results: Discovered significant gender imbalance in the workforce, identified that senior positions consume the largest portion of the salary budget, and revealed that most employees are aged 30-49, indicating a need for more entry-level hiring. The analysis highlighted specific departments with high salary costs and provided actionable recommendations for improving diversity and succession planning.
 
 
+**Freight Cost Analysis Project**
+
+***🔗 [View Project Repository](https://github.com/lucent-analytics/Freight-Cost-Analysis-Project)**
+
+Brief Description: A data analysis project that examines freight shipment costs and delivery performance by comparing planned and actual costs to identify inefficiencies and cost optimization opportunities.
+
+Tools & Skills Used: Excel, Data Cleaning & Preparation, Exploratory Data Analysis (EDA), Cost Variance Analysis, Data Interpretation & Insight Generation
+
+Project Goals: Compare planned freight costs with actual shipment costs, Identify cost overruns and savings across shipments, Analyze delivery performance (on-time vs delayed), Evaluate the impact of distance, carrier, and transport mode on cost
+
+Results: Identified shipments with significant cost overruns and savings, Revealed differences in cost efficiency across carriers and transport modes, Found a clear relationship between shipment distance and total cost, Highlighted delivery delays linked to higher freight costs
+
 ## 🎓 EDUCATION & TRAINING
 
 Cirvee Academy - Data Analytics Training Program 
