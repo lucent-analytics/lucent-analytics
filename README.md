@@ -72,9 +72,9 @@ Project Goals: To understand workforce composition, analyze salary distribution 
 Results: Discovered significant gender imbalance in the workforce, identified that senior positions consume the largest portion of the salary budget, and revealed that most employees are aged 30-49, indicating a need for more entry-level hiring. The analysis highlighted specific departments with high salary costs and provided actionable recommendations for improving diversity and succession planning.
 
 
-**Freight Cost Analysis Project**
+**5. Freight Cost Analysis Project**
 
-***🔗 [View Project Repository](https://github.com/lucent-analytics/Freight-Cost-Analysis-Project)**
+**🔗 [View Project Repository](https://github.com/lucent-analytics/Freight-Cost-Analysis-Project)**
 
 Brief Description: A data analysis project that examines freight shipment costs and delivery performance by comparing planned and actual costs to identify inefficiencies and cost optimization opportunities.
 
@@ -83,6 +83,20 @@ Tools & Skills Used: Excel, Data Cleaning & Preparation, Exploratory Data Analys
 Project Goals: Compare planned freight costs with actual shipment costs, Identify cost overruns and savings across shipments, Analyze delivery performance (on-time vs delayed), Evaluate the impact of distance, carrier, and transport mode on cost
 
 Results: Identified shipments with significant cost overruns and savings, Revealed differences in cost efficiency across carriers and transport modes, Found a clear relationship between shipment distance and total cost, Highlighted delivery delays linked to higher freight costs
+
+
+**6. MetroBank Customer & Loan Analysis**
+
+**🔗 [View Project Repository](https://github.com/lucent-analytics/MetroBank-Customer-and-loan-analysis)**
+
+Brief Description: This project analyzes MetroBank customer and loan data by combining multiple datasets to gain insights into customer behavior, loan distribution, and repayment patterns. The analysis helps identify trends and potential risk indicators that support better banking and credit decisions.
+
+Tools & Skills Used: Microsoft Excel, Power Query, Data Cleaning & Preparation, Data Merging & Joining, Exploratory Data Analysis (EDA), Customer & Loan Analysis, Insight Generation
+
+Project Goals: Merge customer and loan datasets into a single, clean dataset, Understand customer borrowing behavior, Analyze loan distribution and repayment trends, Identify potential credit risk indicators, Support data-driven banking decisions
+
+Results: Successfully combined customer and loan data into one consolidated dataset, Identified key trends in customer borrowing and loan performance, Highlighted repayment patterns linked to customer behavior, Produced an analysis-ready dataset suitable for reporting and dashboards
+
 
 ## 🎓 EDUCATION & TRAINING
 
