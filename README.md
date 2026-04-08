@@ -18,7 +18,19 @@ I specialize in tools like Power BI, SQL, Excel, and Python, and I'm constantly 
 
 Below are my key data analytics projects. Each project includes a brief summary of the tools, skills used, project goals, and results achieved.
 
-**1. OizaPedal Bike Market Analysis**
+**!. Operation Clearwater — NorthAxis Bank Fraud Detection & Risk Intelligence**
+
+🔗 **[View Live Dashboard](https://lucent-analytics.github.io/northaxis-fraud-dashboard/)**
+
+**Brief Description:** A comprehensive fraud detection and risk intelligence investigation for NorthAxis Bank plc, analyzing 195,276 transactions across 12 countries between January and September 2024. The project transforms raw transactional data from a 6-table star schema warehouse into a fully actionable fraud risk report, identifying $2.3M+ in suspicious outflows concentrated within a 6-week window in Q3 2024 and delivering a composite risk scoring model, customer watchlist, and board-ready executive recommendations ahead of an emergency Risk Committee meeting.
+
+**Tools & Skills Used:** MySQL, SQL (CTEs, Window Functions, NTILE, Self-Joins, Subqueries), Power BI, DAX Measures & KPI Development, Python (ReportLab), Data Visualization & Dashboard Design, Fraud Detection & Anomaly Detection, Customer Risk Profiling & Behavioral Analysis, Composite Risk Scoring & Weighted Flag Modeling, Velocity Check Analysis, Geographic Mismatch Detection, Merchant & Channel Risk Scoring, Time-Series & Off-Hours Analysis, HTML/CSS/JavaScript, GitHub Pages Deployment, Executive Reporting & Strategic Recommendations
+
+**Project Goals:** Establish a transaction baseline by analyzing volume, value, and channel patterns to define normal behavior before hunting anomalies. Detect velocity breaches and off-hours spikes by identifying accounts making rapid repeat transactions within 10-minute windows and unusual activity between 1AM and 4AM. Profile customer risk by building behavioral baselines per customer and flagging significant deviations from their own transaction history. Score merchants and channels by ranking them based on their concentration of flagged and suspicious activity. Build a composite fraud risk scoring model by combining seven weighted fraud signals using NTILE ranking to produce a prioritized customer watchlist. Deliver a board-ready executive report with estimated exposure, top accounts to freeze, and channels to restrict before the Risk Committee meeting.
+
+**Results:** The investigation delivered quantifiable findings by identifying 312 Critical-tier customers recommended for immediate account freeze, uncovering a 31.2% flagged transaction rate during off-hours compared to just 4.1% during normal hours, flagging 7,103 transactions through known shell merchants, and detecting 4,821 cross-border geographic mismatch anomalies. The fraud risk scoring model assigned composite risk scores across 8,000 customers, segmenting them into five actionable tiers from Critical to Minimal. Strategic recommendations included immediate account freezes for Critical-tier customers, mobile and web channel restrictions between 1AM and 4AM, a 72-hour KYC re-verification hold for unverified customers, shell merchant payment blocks with SAR filings, and a real-time velocity rules engine to auto-block rapid repeat transactions. Overall, the project is projected to contain the majority of the $2.3M+ exposure within 24 hours of implementation, reduce digital channel fraud rates by an estimated 40–60%, and establish a repeatable data-driven fraud detection framework for ongoing risk monitoring across all 12 operating countries.
+
+**2. OizaPedal Bike Market Analysis**
 
 **🔗 [View Project Repository](https://github.com/lucent-analytics/OizaPedal-Bike-Dashboard)**
 
@@ -32,7 +44,7 @@ Results: The analysis delivered quantifiable insights by identifying peak revenu
 
 
 
-**2. Tech Layoffs Data Analysis (2020-2023)**
+**3. Tech Layoffs Data Analysis (2020-2023)**
 
 **🔗 [View Project Repository](https://github.com/lucent-analytics/layoffs-data-analysis)**
 
@@ -47,7 +59,7 @@ Key Results: Successfully cleaned dataset removing duplicates and standardizing 
 
 
 
-**3. Luckerts Plugin Store Sales Analysis**
+**4. Luckerts Plugin Store Sales Analysis**
 
 **🔗 [View Project Repository](https://github.com/lucent-analytics/Luckerts-PlugIn-Store-Powerbi-Project)**
 
@@ -59,7 +71,7 @@ Project Goals: To provide stakeholders with actionable insights into sales perfo
 
 Results: Developed an interactive dashboard revealing that Lagos accounts for 45.5% of total sales, webcams and mice are the top revenue drivers, and identified the top 5 highest-value customers. The dashboard tracks 200 sales transactions across 20 customers, generating ₦102,501 in revenue, with clear patterns showing peak sales on specific days of the week.
 
-**4. SQL Parks and Employee Analysis**
+**5. SQL Parks and Employee Analysis**
 
 **🔗 [View Project Repository](https://github.com/lucent-analytics/SQL-parks-and-employee-analysis)**
 
@@ -72,7 +84,7 @@ Project Goals: To understand workforce composition, analyze salary distribution 
 Results: Discovered significant gender imbalance in the workforce, identified that senior positions consume the largest portion of the salary budget, and revealed that most employees are aged 30-49, indicating a need for more entry-level hiring. The analysis highlighted specific departments with high salary costs and provided actionable recommendations for improving diversity and succession planning.
 
 
-**5. Freight Cost Analysis Project**
+**6. Freight Cost Analysis Project**
 
 **🔗 [View Project Repository](https://github.com/lucent-analytics/Freight-Cost-Analysis-Project)**
 
@@ -85,7 +97,7 @@ Project Goals: Compare planned freight costs with actual shipment costs, Identif
 Results: Identified shipments with significant cost overruns and savings, Revealed differences in cost efficiency across carriers and transport modes, Found a clear relationship between shipment distance and total cost, Highlighted delivery delays linked to higher freight costs
 
 
-**6. MetroBank Customer & Loan Analysis**
+**7. MetroBank Customer & Loan Analysis**
 
 **🔗 [View Project Repository](https://github.com/lucent-analytics/MetroBank-Customer-and-loan-analysis)**
 
