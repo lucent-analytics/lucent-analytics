@@ -18,9 +18,11 @@ I specialize in tools like Power BI, SQL, Excel, and Python, and I'm constantly 
 
 Below are my key data analytics projects. Each project includes a brief summary of the tools, skills used, project goals, and results achieved.
 
-**!. Operation Clearwater — NorthAxis Bank Fraud Detection & Risk Intelligence**
+**1. Operation Clearwater — NorthAxis Bank Fraud Detection & Risk Intelligence**
 
 🔗 **[View Live Dashboard](https://lucent-analytics.github.io/northaxis-fraud-dashboard/)**
+
+**🔗 [View Project Repository](https://github.com/lucent-analytics/northaxis-fraud-Dashboard)**
 
 **Brief Description:** A comprehensive fraud detection and risk intelligence investigation for NorthAxis Bank plc, analyzing 195,276 transactions across 12 countries between January and September 2024. The project transforms raw transactional data from a 6-table star schema warehouse into a fully actionable fraud risk report, identifying $2.3M+ in suspicious outflows concentrated within a 6-week window in Q3 2024 and delivering a composite risk scoring model, customer watchlist, and board-ready executive recommendations ahead of an emergency Risk Committee meeting.
 
